@@ -1,3 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@font-face {
+  font-family: "Glacial_Indifference";
+  src: url("./assets/GlacialIndifference-Regular.otf");
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
