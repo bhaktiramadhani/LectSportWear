@@ -51,7 +51,7 @@ function App() {
           <img src={cantonaBelakang} alt="cantona" className="w-44 md:w-64" />
         </div>
       </div>
-      <div className="relative mx-28 mt-10 md:mt-2 flex flex-col md:flex-row justify-between">
+      <div className="relative mx-10 md:mx-28 mt-10 md:mt-2 flex flex-col md:flex-row justify-between">
         <div className="font-glacial text-white pb-2 md:pb-20">
           <p>Instagram : @niadiracans</p>
           <p>Dibeli pada tanggal : 17 Oktober 2024</p>
